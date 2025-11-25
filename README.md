@@ -1,2 +1,2 @@
-# Cheat-Sheet-Nhom15-KTLT
-Báo cáo Cheat Sheet Kĩ thuật Lập trình nhóm 15 Ca 1 sáng Thứ 3
+# Cheat-Sheet-Nhom2-KTLT
+Báo cáo Cheat Sheet Kĩ thuật Lập trình nhóm 2 Ca 1 sáng Thứ 3
